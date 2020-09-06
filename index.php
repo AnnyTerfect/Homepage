@@ -46,7 +46,7 @@
                 </tr>
             </table>
             <h2>Supervisor</h2>
-                <p>Professor <a href="http://cs.nju.edu.cn/wangwei/">Yuan Jiang</a></p>
+                <p>Professor <a href="http://cs.nju.edu.cn/jiangy/">Yuan Jiang</a></p>
 
             <h2>Biography</h2>
             <ul>
