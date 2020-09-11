@@ -85,5 +85,6 @@
                 </div>
             </div>
         </div>
+        <a href="https://clustrmaps.com/site/1bd1b" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=298&t=n&d=kWFBf1oT7sCW5vB67eYdoR1_AG5cgr_CkAoLLj1v9Qw" /></a>
     </body>
 </html>
